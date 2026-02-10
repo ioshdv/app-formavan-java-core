@@ -42,3 +42,7 @@ build/
 producto_optimizado.jpg
 producto_final.jpg
 /out/
+
+# Images
+*.jpg
+*.png
